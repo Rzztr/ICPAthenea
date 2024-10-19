@@ -1,8 +1,8 @@
 # `Athenea`
 
-Welcome to your new `Athenea` project and to the Internet Computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
+Athenea, es un proyecto en ICP desarrollado por la Universidad Tecnologica de Ags. Acerca de un boton de panico que se centraliza en la seguridad del usuario dando una geolocalizacion y dando ayuda a la persona afectada, tambien ofrece servicios centralizados para la mujer, personas mayores y niñas dando asi mas informacion necesaria para su vida diaria y protegiendolos al mismo tiempo. 
 
-To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
+"Siempre contigo, siempre segura". Athenea
 
 To learn more before you start working with `Athenea`, see the following documentation available online:
 
