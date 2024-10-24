@@ -4,6 +4,28 @@ Athenea, es un proyecto en ICP desarrollado por la Universidad Tecnologica de Ag
 
 "Siempre contigo, siempre segura". Athenea
 
+
+Olimpo's notes: 
+###NOTA DE USO DE ATHENEA RAR
+
+Se subio en forma rar ya que ICP tiene conflictos de librerias en el uso de nombres de carpetas y de busquedas de archivos, la parte fundamental esta en el uso de un servidor propio de recepcion de datos y de interpretacion mediante la apli en el archivo correspondiente. 
+
+METODO DE USO: 
+  cd atheneaContinuo
+  python3 app.py
+
+  Abres tu navegador en http://127.0.0.1:5000 (se le pone /consultas - /login dependiendo de la pagina)
+
+Como se planea a manera estatal el proyecto, se prueba en servidores locales y redes internas, en caso de ser testeado en produccion, se necesita apis de google y servicio de host o montar el servidor en el area....
+
+
+Nota para Ricardo: 
+Ewe, con ICP vamos a tardar y gastar mas para que sea compatible con lo nuestro, porque usamos ICP si no es compatible y hay mas errores que funcionalidades para hackeo etico (?)....
+
+
+
+ICP Development:
+
 To learn more before you start working with `Athenea`, see the following documentation available online:
 
 - [Quick Start](https://internetcomputer.org/docs/current/developer-docs/setup/deploy-locally)
@@ -59,3 +81,4 @@ If you are hosting frontend code somewhere without using DFX, you may need to ma
 - Write your own `createActor` constructor
 # ICPAthenea
 "# ICPAthenea" 
+
