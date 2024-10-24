@@ -6,7 +6,9 @@ Athenea, es un proyecto en ICP desarrollado por la Universidad Tecnologica de Ag
 
 
 Olimpo's notes: 
-###NOTA DE USO DE ATHENEA RAR
+
+
+*NOTA DE USO DE ATHENEA RAR*
 
 Se subio en forma rar ya que ICP tiene conflictos de librerias en el uso de nombres de carpetas y de busquedas de archivos, la parte fundamental esta en el uso de un servidor propio de recepcion de datos y de interpretacion mediante la apli en el archivo correspondiente. 
 
